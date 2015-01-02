@@ -1,0 +1,9 @@
+<?xml version="1.0" ?><AUVSI>
+	<image id="213" time="2014-06-17 19:30:49.420723">
+		<location altitude="24.045" lat="+38.84820821" lon="-076.69979979"/>
+		<gimbal pitch="1.398" roll="34.072" yaw="-83.997"/>
+		<large_img src="D:\Dropbox\Dropbox\AUVSI_EE\AUVSI_2014\auvsi2014_CS_code\data\images\\213.jpg"/>
+		<crops>
+		</crops>
+	</image>
+</AUVSI>

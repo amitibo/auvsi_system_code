@@ -1,0 +1,58 @@
+C:\Technion\project\ImageProcessingControl_20.4.14 - sim\ImageProcessingControl\bin\Release\ImageProcessingControl.exe.config
+C:\Technion\project\ImageProcessingControl_3.5.14\ImageProcessingControl\bin\Release\ImageProcessingControl.exe.config
+C:\technion\Semester 4\project\ImageProcessingControl_6.5.14\ImageProcessingControl\bin\Release\ImageProcessingControl.exe.config
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\ImageProcessingControl.exe.config
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.csprojResolveAssemblyReference.cache
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.GoogleMapDialog.resources
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.ImageProcessingDialog.resources
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.ImageZoomCrop.resources
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.Properties.Resources.resources
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.csproj.GenerateResource.Cache
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\ImageProcessingControl.exe
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\ImageProcessingControl.pdb
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\GMap.NET.Core.dll
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\GMap.NET.WindowsForms.dll
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\Newtonsoft.Json.dll
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\OpenCVProject.dll
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\spatial.dll
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\System.Net.Http.dll
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\System.Net.Http.Formatting.dll
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\System.Net.Http.WebRequest.dll
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\System.Web.Http.dll
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\OpenCVProject.pdb
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\Newtonsoft.Json.xml
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\System.Net.Http.xml
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\System.Net.Http.Formatting.xml
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\System.Net.Http.WebRequest.xml
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\bin\Release\System.Web.Http.xml
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.exe
+C:\technion\Semester 4\project\ImageProcessingControl_8.5.14\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.pdb
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\ImageProcessingControl.exe.config
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.exe
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.pdb
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\ImageProcessingControl.exe
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\ImageProcessingControl.pdb
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\GMap.NET.Core.dll
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\OpenCVProject.dll
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\spatial.dll
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\System.Net.Http.dll
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\System.Net.Http.WebRequest.dll
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\System.Web.Http.dll
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\OpenCVProject.pdb
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\System.Net.Http.xml
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\System.Net.Http.WebRequest.xml
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\bin\Release\System.Web.Http.xml
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.GoogleMapDialog.resources
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.ImageProcessingDialog.resources
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.ImageZoomCrop.resources
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.Properties.Resources.resources
+C:\Users\admin\Desktop\ImageProcessingControl_24.5.14-work\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.csproj.GenerateResource.Cache
+C:\Technion\GUI - 24.5.14\ImageProcessingControl_25.5.14\ImageProcessingControl\bin\Release\ImageProcessingControl.exe.config
+C:\Technion\GUI - 24.5.14\ImageProcessingControl_25.5.14\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.exe
+C:\Technion\GUI - 24.5.14\ImageProcessingControl_25.5.14\ImageProcessingControl\obj\x86\Release\ImageProcessingControl.pdb
