@@ -1,10 +1,7 @@
 '''
 Created on Nov 25, 2013
-
 @author: elius
-'''
 
-'''
 Edited by: Ori Ashur
 03.01.2015
 
@@ -25,15 +22,6 @@ local_crops_dir = r".\data\crops\\"
 local_xml_dir   = r".\data\xml\\"
 local_db_dir    = r".\data\\"
 
-#local_image_dir = r"D:\AVUSI_CODE\pythonScripts\data\images\\"
-#local_crops_dir = r"D:\AVUSI_CODE\pythonScripts\data\crops\\"
-#local_xml_dir   = r"D:\AVUSI_CODE\pythonScripts\data\xml\\"
-#local_db_dir    = r"D:\AVUSI_CODE\pythonScripts\data\\"
-
-#local_image_dir = "C:\\AUVSI\\images\\"
-#local_crops_dir = "C:\\AUVSI\\crops\\"
-#local_xml_dir   = "C:\\AUVSI\\xml\\"
-#local_db_dir    = "C:\\AUVSI\\"
 
 addr            = "http://192.168.1.12:8070/"  # ODROID web address
 loop_delay      = 0.1 # Time to wait after a failed request
