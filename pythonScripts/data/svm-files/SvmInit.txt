@@ -1,0 +1,2 @@
+SvmLimit nRows nCols StdLimit ABCdiv LocFac DistFac DistPow PlotMode AreaLimit SwtMaxWidth ShiftBandWidth BWcorrelateLimit OCRminLimit SwtMinAvgLimit NadavColorsMap
+0.27      101   101   4        1      10     10      1       0        25        15          11             0.25             75         2              1
