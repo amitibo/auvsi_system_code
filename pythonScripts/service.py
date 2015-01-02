@@ -17,8 +17,8 @@ import time
 
 local_image_dir = r".\data\images\\"
 local_crops_dir = r".\data\crops\\"
-local_xml_dir   = r".\data\data\xml\\"
-local_db_dir    = r".\data\data"
+local_xml_dir   = r".\data\xml\\"
+local_db_dir    = r".\data\\"
 
 addr            = "http://192.168.1.12:8070/"  # ODROID web address
 PORT_NUMBER = 8080
