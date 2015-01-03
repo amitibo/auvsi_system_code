@@ -858,3 +858,4 @@ D:\AVUSI_CODE\CSharpGui\ImageProcessingControl\obj\x86\Debug\ImageProcessingCont
 D:\AVUSI_CODE\CSharpGui\ImageProcessingControl\obj\x86\Debug\ImageProcessingControl.ImageZoomCrop.resources
 D:\AVUSI_CODE\CSharpGui\ImageProcessingControl\obj\x86\Debug\ImageProcessingControl.Properties.Resources.resources
 D:\AVUSI_CODE\CSharpGui\ImageProcessingControl\obj\x86\Debug\ImageProcessingControl.csproj.GenerateResource.Cache
+D:\AVUSI_CODE\CSharpGui\ImageProcessingControl\bin\Debug\spatial.dll

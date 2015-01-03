@@ -47,25 +47,25 @@ def grab(action = ""):
         #get data for full compressed images
         xmldoc = minidom.parse(xmlfile)
         image_id = xmldoc.getElementsByTagName('image')[0].attributes['id'].value 
-        image_src = xmldoc.getElementsByTagName('large_img')[0].attributes['src'].value 
+        image_src = xmldoc.getElementsByTagName('large_img')[0].attributes['src'].value
         #gets the images from db.php (on odroid)
-		urllib.urlretrieve(addr + image_src, local_image_dir + os.path.basename(image_src)) 
-		#saving the local path for the downloaded image
-		xmldoc.getElementsByTagName('large_img')[0].attributes['src'].value = local_image_dir + os.path.basename(image_src)
+        urllib.urlretrieve(addr + image_src, local_image_dir + os.path.basename(image_src))
+        #saving the local path for the downloaded image
+        xmldoc.getElementsByTagName('large_img')[0].attributes['src'].value = local_image_dir + os.path.basename(image_src)
         
-		#get data for cropped images
+        #get data for cropped images
         crop_list = xmldoc.getElementsByTagName('img')
-		#getting all the "suspects" for targets as the MSER recognised from the "large" image above
+        #getting all the "suspects" for targets as the MSER recognised from the "large" image above
         for crop in crop_list:
             urllib.urlretrieve(addr + crop.attributes['src'].value, local_crops_dir + os.path.basename(crop.attributes['src'].value))
             crop.attributes['src'].value = local_crops_dir + os.path.basename(crop.attributes['src'].value)
-		
-		#saves xml file on local machine
+        
+        #saves xml file on local machine
         f = open(local_xml_dir + image_id + ".xml", 'w') 
         xmldoc.writexml(f)
         f.close()
         
-		#update sql DB on local machine
+        #update sql DB on local machine
         sql = "INSERT INTO xmls (id, status, src) VALUES({},'false', '{}')".format(image_id, local_xml_dir + image_id + ".xml")
         cur.execute(sql)
         print time.strftime("%Y-%m-%d %H:%M:%S"),"Received image ID:",image_id
